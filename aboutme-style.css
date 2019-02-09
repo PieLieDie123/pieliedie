@@ -1,0 +1,29 @@
+b{
+	color: green;
+}
+ol{
+	color: red;
+}
+h1{
+	font-size: 17px;
+	font-family: Verdana;
+	font-family: Arial;
+}
+.container{
+	justify-content: center;
+	width: 900px;
+    padding: 10px;
+    margin: auto;
+    background: #89AFD0;
+}
+h3{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+.image{
+	width: 500px;
+	justify-content: center;
+	padding: 5px;
+}
